@@ -32,4 +32,5 @@ int main(){
     cout << "Data kedua : " << datamu[1] << endl;
     cout << "Data ketiga : " << datamu[2] << endl;
     cout << "Data keempat : " << datamu[3] << endl;
-   
+    cout << "Data kelima : " << datamu[4] << endl;
+    cout<<endl;
