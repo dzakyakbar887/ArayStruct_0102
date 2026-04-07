@@ -31,4 +31,5 @@ int main(){
     cout << "Data pertama : " << datamu[0] << endl;
     cout << "Data kedua : " << datamu[1] << endl;
     cout << "Data ketiga : " << datamu[2] << endl;
+    cout << "Data keempat : " << datamu[3] << endl;
    
